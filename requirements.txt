@@ -1,0 +1,17 @@
+torch==2.5.1
+torchvision==0.20.1
+numpy
+opencv-python
+scipy
+scikit-image
+matplotlib
+Pillow
+Shapely
+Polygon3
+pyclipper
+easydict
+tqdm
+einops
+torch-dct
+mamba-ssm
+tensorboardX
