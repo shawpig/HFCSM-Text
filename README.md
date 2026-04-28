@@ -15,6 +15,7 @@ To run this repo successfully, it is recommended with:
 - **PyTorch**
 - **OpenCV**
 - **mamba-ssm**
+- > **Note:** The `requirements.txt` file lists the required packages for the original development environment. HFCSM-Text may only require a subset of these packages to run properly. For more details, please refer to `requirements.txt`.
 
 
 ## Model Performance
