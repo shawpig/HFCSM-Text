@@ -29,4 +29,4 @@ To run this repo successfully, it is recommended with:
 
 ## Acknowledgements
 
-We sincerely thank the authors of [TextBPN++](https://github.com/GXYM/TextBPN-Plus-Plus) for their excellent work and open-source contribution. Their codebase provides an important foundation for this project.
+We sincerely thank the authors of [TextBPN++](https://github.com/GXYM/TextBPN-Plus-Plus) and [HS-FPN](https://github.com/ShiZican/HS-FPN) for their excellent work and open-source contributions. Their codebases provide important foundations and inspirations for this project.
