@@ -15,3 +15,12 @@ To run this repo successfully, it is recommended with:
 - **PyTorch**
 - **OpenCV**
 - **mamba-ssm**
+
+
+## Model Performance
+
+| Dataset | P (%) | R (%) | F-measure (%) | FPS |
+|---|---:|---:|---:|---:|
+| Total-Text | **93.11** | 86.36 | **89.61** | 15.29 |
+| CTW-1500 | **89.88** | 83.08 | 86.35 | 17.12 |
+| MSRA-TD500 | **93.07** | 86.13 | **89.48** | 19.89 |
