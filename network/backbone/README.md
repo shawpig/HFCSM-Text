@@ -1,12 +1,13 @@
-# Backbone Weights
+# Backbone Networks
 
-This folder is used to store pretrained backbone models, such as ResNet and VGG.
+This folder contains the backbone network implementations used in HFCSM-Text, including ResNet and VGG.
 
 The expected directory structure is:
 
 ```text
 network/backbone/
-├── resnet50.pth
-├── deformable_resnet50.pth
-├── vgg16.pth
+├── __init__.py
+├── resnet.py
+├── vgg.py
+├── assets/
 └── README.md
