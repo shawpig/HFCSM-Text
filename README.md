@@ -17,6 +17,10 @@ To run this repo successfully, it is recommended with:
 - **mamba-ssm**
 - > **Note:** The `requirements.txt` file lists the required packages for the original development environment. HFCSM-Text may only require a subset of these packages to run properly. For more details, please refer to `requirements.txt`.
 
+## Code Release Note
+
+This repository currently provides the main implementation of HFCSM-Text.  
+For some auxiliary configuration files, dataset processing scripts, and evaluation details, please refer to the excellent work of [TextBPN++](https://github.com/GXYM/TextBPN-Plus-Plus), on which this project is partly based.
 
 ## Model Performance
 
