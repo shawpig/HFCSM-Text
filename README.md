@@ -22,6 +22,9 @@ To run this repo successfully, it is recommended with:
 This repository currently provides the main implementation of HFCSM-Text.  
 For some auxiliary configuration files, dataset processing scripts, and evaluation details, please refer to the excellent work of [TextBPN++](https://github.com/GXYM/TextBPN-Plus-Plus), on which this project is partly based.
 
+## Visualization
+![Visualization](assets/可视化效果GITHUB.svg)
+
 ## Model Performance
 
 | Dataset | P (%) | R (%) | F-measure (%) | FPS |
